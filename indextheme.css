@@ -1,0 +1,53 @@
+body {
+      background-color: #blue;
+}
+
+h1 {
+    background-color: #blue;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #666699;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #9999ff;
+     }
+
+iframe{
+       width: 75%;
+       height: 550px;
+       float: left;
+       border: 0;
+}
+
+.active {
+    background-color: #99ffcc;
+}
+
+aside{
+     float: right;
+}
+
+img{
+    width:100%;
+    hieght: 850px;
+    float: left;
+}
+

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="styleheet" type="text/css" href="css/theme.css">
+</head>
+<body>
+<h1> ETHICAL ISSUES </h1>
+
+<ol>
+<li> Facebook - Facebook recieves a lot of information everyday from people who make new accounts or update their accounts by talking about how their day was.
+<li>
+<li>
+<li>
+<li>
+</ol>
+</body>
+
+</html>
